@@ -8,4 +8,6 @@ async function getNotes () {
 	return JSON.parse(rawData);
 };
 
-getNotes();
+
+
+module.exports = getNotes;
