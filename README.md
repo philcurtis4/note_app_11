@@ -7,7 +7,7 @@ If you wish to run this project locally on your own computer, assuming you have 
 git clone https://github.com/philcurtis4/note_app_11
 ## Usage
 The live site may be viewed at the following url.
-https://YOUR_USERNAME.github.io/REPO_NAME/
+https://note-app-11.onrender.com/
 Here is a screenshot of the page.
 ![screenshot of landing page](./public/assets/images/screenshotone.jpg)
 ![screenshot of note creation page](./public/assets/images/screenshottwo.jpg)
