@@ -9,7 +9,8 @@ git clone https://github.com/philcurtis4/note_app_11
 The live site may be viewed at the following url.
 https://YOUR_USERNAME.github.io/REPO_NAME/
 Here is a screenshot of the page.
-![Alt text](./assets/images/final-result.png)
+![screenshot of landing page](./public/assets/images/screenshotone.jpg)
+![screenshot of note creation page](./public/assets/images/screenshottwo.jpg)
     
 ## Credits
 The front end of this project was created by the Rutgers bootcamp. Backend was completed by Philip Curtis.
