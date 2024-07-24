@@ -32,4 +32,16 @@ router.post('/notes', async (req, res) => {
 
 });
 
+
+router.delete('/notes/:noteId', async (req, res) => {
+	const id = req.params.noteId;
+	
+	let notes = await getNotes();
+
+	notes = notes.filter(noteObj => noteObj.id !== id);
+
+	saveNotes(notes);
+
+	res.json(notes || {});
+});
 module.exports = router;
